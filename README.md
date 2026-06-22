@@ -2,6 +2,11 @@
 
 마우스 제어 감각을 테스트하는 브라우저 미니게임입니다. 목표 시간에 맞춰 포인터를 멈추는 `Target Freeze`와 신호에 맞춰 움직임을 제어하는 `Red Light` 모드를 제공합니다.
 
+## Links
+
+- Production: <https://mouse-freeze-challenge.vercel.app>
+- Project brief: [docs/PROJECT_BRIEF.md](docs/PROJECT_BRIEF.md)
+
 ## Stack
 
 - Vite
